@@ -15,7 +15,16 @@ A production-grade, end-to-end test automation framework built with **Python + S
 ![Demo](assets/demo.gif)
 
 ---
-<img width="1440" height="900" alt="Screenshot 2026-04-03 at 3 31 30 AM" src="https://github.com/user-attachments/assets/466814cf-a4ae-4635-9285-f653be06cab8" />
+
+---
+
+## 📋 Sample Log Output — Live Terminal
+
+<img width="700" alt="Live terminal log output showing test execution" src="https://github.com/user-attachments/assets/466814cf-a4ae-4635-9285-f653be06cab8" />
+
+> Live log output showing browser initialisation, filter applied, 130 results verified — PASS: 130 / FAIL: 0
+
+---
 
 ## 🏗 Framework Architecture
 
@@ -177,4 +186,4 @@ start reports/test_report.html    # Windows
 ## 📌 Author
 
 **Inderpreet Singh Parmar**
-[GitHub](https://github.com/InderParmar) · [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/InderParmar) · [LinkedIn](https://www.linkedin.com/in/inderpreet-singh-parmar-7abb23230/)
