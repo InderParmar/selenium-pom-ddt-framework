@@ -1,0 +1,11 @@
+- going_from: "New "
+  going_to: "Amritsar"
+  depart_date: "April 3rd"
+  return_date: "April 8th"
+  stops: "1 Stop"
+
+- going_from: "New "
+  going_to: "Chennai"
+  depart_date: "April 3rd"
+  return_date: "April 8th"
+  stops: "1 Stop"

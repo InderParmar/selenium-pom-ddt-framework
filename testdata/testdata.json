@@ -1,0 +1,16 @@
+[
+  {
+    "going_from": "JFK",
+    "going_to": "Amritsar",
+    "depart_date": "April 10th",
+    "return_date": "April 14th",
+    "stops": "2 Stops"
+  },
+  {
+    "going_from": "New",
+    "going_to": "MEL",
+    "depart_date": "April 4th",
+    "return_date": "April 8th",
+    "stops": "1 Stop"
+  }
+]

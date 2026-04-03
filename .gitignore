@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.log
+.DS_Store
+
+# Keep folder structure but ignore generated contents
+logs/*
+!logs/.gitkeep
+
+reports/*
+!reports/.gitkeep
