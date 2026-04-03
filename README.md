@@ -15,6 +15,7 @@ A production-grade, end-to-end test automation framework built with **Python + S
 ![Demo](assets/demo.gif)
 
 ---
+<img width="1440" height="900" alt="Screenshot 2026-04-03 at 3 31 30 AM" src="https://github.com/user-attachments/assets/466814cf-a4ae-4635-9285-f653be06cab8" />
 
 ## 🏗 Framework Architecture
 
