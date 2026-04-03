@@ -20,7 +20,7 @@ A production-grade, end-to-end test automation framework built with **Python + S
 
 ## 📋 Sample Log Output — Live Terminal
 
-<img width="700" alt="Live terminal log output showing test execution" src="https://github.com/user-attachments/assets/466814cf-a4ae-4635-9285-f653be06cab8" />
+<img width="600" alt="Live terminal log output showing test execution" src="https://github.com/user-attachments/assets/466814cf-a4ae-4635-9285-f653be06cab8" />
 
 > Live log output showing browser initialisation, filter applied, 130 results verified — PASS: 130 / FAIL: 0
 
